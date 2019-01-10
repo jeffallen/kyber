@@ -1,3 +1,5 @@
+This is v3!
+
 [![Docs](https://img.shields.io/badge/docs-current-brightgreen.svg)](https://godoc.org/github.com/dedis/kyber)
 [![Build Status](https://travis-ci.org/dedis/kyber.svg?branch=master)](https://travis-ci.org/dedis/kyber)
 
